@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Otros</name>
+    <Style id="icon-1548-0097A7-nodesc-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1548-0097A7-nodesc-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1548-0097A7-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1548-0097A7-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1548-0097A7-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1636-0097A7-nodesc-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1636-0097A7-nodesc-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1636-0097A7-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1636-0097A7-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1636-0097A7-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1637-0097A7-nodesc-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1637-0097A7-nodesc-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1637-0097A7-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1637-0097A7-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1637-0097A7-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0097A7-nodesc-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-nodesc-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0097A7-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0097A7-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0097A7-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name><![CDATA[Museo Vasco de Historia de la Medicina y la Ciencia 'José Luis Goti'
+
+ Museo Vasco de Historia de la Medicina 
+]]></name>
+      <styleUrl>#icon-1636-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.9684865,43.3314525,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fundación Maite</name>
+      <styleUrl>#icon-1899-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.9715764,43.3316008,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edificio Joxe Mari Korta</name>
+      <styleUrl>#icon-1899-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.0085078,43.3060565,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Basque Center for Climate Change (BC3)</name>
+      <styleUrl>#icon-1899-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.968154,43.3321237,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edificio CSIC Física de Materiales</name>
+      <styleUrl>#icon-1899-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.0095164,43.3057794,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Palacio de Miramar</name>
+      <styleUrl>#icon-1899-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9985032,43.3148002,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C.I.C. Nanogune</name>
+      <styleUrl>#icon-1899-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.0073867,43.3048464,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Consejo de Estudiantes</name>
+      <styleUrl>#icon-1899-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.9669094,43.3305239,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parque Tecnológico de Zamudio</name>
+      <styleUrl>#icon-1899-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.855823,43.2931222,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Estación Marina de Plentzia (PiE)</name>
+      <styleUrl>#icon-1899-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.944985,43.4121987,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aula Magna</name>
+      <styleUrl>#icon-1637-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.9697633,43.3316242,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bizkaia Aretoa</name>
+      <styleUrl>#icon-1637-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.9376143,43.2685852,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rectorado</name>
+      <styleUrl>#icon-1548-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.9674887,43.3308125,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vicerrectorado del Campus de Álava </name>
+      <styleUrl>#icon-1548-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.6687282,42.8397707,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vicerrectorado del Campus de Gipuzkoa</name>
+      <styleUrl>#icon-1548-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.0113402,43.3104637,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

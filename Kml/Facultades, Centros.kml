@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Facultades, Centros etc.</name>
+    <Style id="icon-1726-0097A7-nodesc-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1726-0097A7-nodesc-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1726-0097A7-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1726-0097A7-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1726-0097A7-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Facultad de Informática</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.010842,43.307203,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Facultad de Psicología y Facultad de Filosofía y Ciencias de la Educación</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.0092256,43.3073216,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Escuela de Ingeniería de Gipuzkoa</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.009616,43.309619,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Facultad de Educación, Filosofía y Antropología</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.0093054,43.311825,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Escuela Técnica Superior de Arquitectura</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.0104473,43.3119697,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Facultad de Ciencias Químicas</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.0100971,43.3063669,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centro Ignacio María Barriola - Aulario EHU/UPV</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.0108548,43.3078034,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Escuela Universitaria de Magisterio</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.9726386,43.3330406,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Escuela de Hostelería de Leioa</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.9711848,43.3320534,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Escuela de Ingeniería de Guipuzcoa, sección Éibar</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.4890792,43.1795276,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Facultad de Ciencias Sociales y de la Comunicación</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.9672956,43.3312262,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Escuela Universitaria de Trabajo Social</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.669659,42.8398829,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Facultad de Letras</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.6700291,42.8399438,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Facultad de Letras</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.6707292,42.8401956,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Facultad de Farmacia</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.6724136,42.8403136,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Facultad de Derecho</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.0116353,43.3066577,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Escuela Universitaria de Magisterio</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.6739478,42.8402664,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Escuela Universitaria de Ingeniería</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.6743019,42.8392909,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aulario de las Nieves</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.6736581,42.8383979,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centro de Investigación Lascaray</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.6711529,42.8392319,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Facultad de Medicina y Enfermería</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -1.9667888,43.2931691,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Facultad de Ciencias de la Actividad Física y del Deporte</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.686581,42.8325248,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Facultad de Medicina y Enfermería</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.9664481,43.3299151,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Escuela Universitaria De Enfermería</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.6907223,42.8540398,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Facultad de Ciencia y Tecnología</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.9688621,43.3305472,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Facultad de Economía y Empresa</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.0104711,43.3113742,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Facultad de Bellas Artes</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.9735076,43.3313666,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Escuela Técnica Superior de Ingeniería </name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.9509985,43.2636672,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Escuela Técnica Superior de Ingeniería</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.9489064,43.2624484,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Escuela Técnica Superior de Náutica y Máquinas Navales</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.0227959,43.3270352,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Facultad de Ciencias Económicas y Empresariales (Sarriko)</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.9593778,43.2730887,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Escuela Universitaria de Estudios Empresariales</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.6686746,42.837387,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Facultad de Ciencias Económicas y Empresariales (Elcano)</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.9330975,43.2601201,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Colegio Mayor Miguel de Unamuno</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.9596835,43.276682,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aulas de la Experiencia</name>
+      <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.9231384,43.2577722,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

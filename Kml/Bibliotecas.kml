@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Bibliotecas</name>
+    <Style id="icon-1664-880E4F-nodesc-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1664-880E4F-nodesc-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1664-880E4F-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1664-880E4F-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1664-880E4F-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Biblioteca de Sarriko</name>
+      <styleUrl>#icon-1664-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.9585141,43.2730341,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Biblioteca de la Facultad de Bellas Artes</name>
+      <styleUrl>#icon-1664-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.9719198,43.3312106,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Biblioteca central</name>
+      <styleUrl>#icon-1664-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.968669,43.3311716,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Biblioteca de Éibar </name>
+      <styleUrl>#icon-1664-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.4886984,43.179422,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centro Carlos Santamaría</name>
+      <styleUrl>#icon-1664-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.0116648,43.3087354,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Biblioteca Campus de Álava</name>
+      <styleUrl>#icon-1664-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.6737064,42.8380282,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

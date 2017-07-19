@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>EHU UPV</name>
+    <description/>
+    <Style id="icon-1520-FBC02D-nodesc-normal">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1520-FBC02D-nodesc-highlight">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1520-FBC02D-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1520-FBC02D-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1520-FBC02D-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1534-0F9D58-nodesc-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1534-0F9D58-nodesc-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1534-0F9D58-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1534-0F9D58-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1534-0F9D58-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1548-0097A7-nodesc-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1548-0097A7-nodesc-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1548-0097A7-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1548-0097A7-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1548-0097A7-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1636-0097A7-nodesc-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1636-0097A7-nodesc-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1636-0097A7-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1636-0097A7-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1636-0097A7-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1637-0097A7-nodesc-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1637-0097A7-nodesc-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1637-0097A7-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1637-0097A7-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1637-0097A7-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1644-01579B-nodesc-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1644-01579B-nodesc-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1644-01579B-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1644-01579B-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1644-01579B-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1664-880E4F-nodesc-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1664-880E4F-nodesc-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1664-880E4F-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1664-880E4F-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1664-880E4F-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1726-0097A7-nodesc-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1726-0097A7-nodesc-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1726-0097A7-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1726-0097A7-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1726-0097A7-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0097A7-nodesc-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-nodesc-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0097A7-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0097A7-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0097A7-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Facultades, Centros etc.</name>
+      <Placemark>
+        <name>Facultad de Informática</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.010842,43.307203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Facultad de Psicología y Facultad de Filosofía y Ciencias de la Educación</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0092256,43.3073216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escuela de Ingeniería de Gipuzkoa</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.009616,43.309619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Facultad de Educación, Filosofía y Antropología</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0093054,43.311825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escuela Técnica Superior de Arquitectura</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0104473,43.3119697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Facultad de Ciencias Químicas</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0100971,43.3063669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Ignacio María Barriola - Aulario EHU/UPV</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0108548,43.3078034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escuela Universitaria de Magisterio</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9726386,43.3330406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escuela de Hostelería de Leioa</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9711848,43.3320534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escuela de Ingeniería de Guipuzcoa, sección Éibar</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.4890792,43.1795276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Facultad de Ciencias Sociales y de la Comunicación</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9672956,43.3312262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escuela Universitaria de Trabajo Social</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.669659,42.8398829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Facultad de Letras</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6700291,42.8399438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Facultad de Letras</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6707292,42.8401956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Facultad de Farmacia</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6724136,42.8403136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Facultad de Derecho</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0116353,43.3066577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escuela Universitaria de Magisterio</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6739478,42.8402664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escuela Universitaria de Ingeniería</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6743019,42.8392909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aulario de las Nieves</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6736581,42.8383979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Investigación Lascaray</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6711529,42.8392319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Facultad de Medicina y Enfermería</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.9667888,43.2931691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Facultad de Ciencias de la Actividad Física y del Deporte</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.686581,42.8325248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Facultad de Medicina y Enfermería</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9664481,43.3299151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escuela Universitaria De Enfermería</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6907223,42.8540398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Facultad de Ciencia y Tecnología</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9688621,43.3305472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Facultad de Economía y Empresa</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0104711,43.3113742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Facultad de Bellas Artes</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9735076,43.3313666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escuela Técnica Superior de Ingeniería </name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9509985,43.2636672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escuela Técnica Superior de Ingeniería</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9489064,43.2624484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escuela Técnica Superior de Náutica y Máquinas Navales</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -3.0227959,43.3270352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Facultad de Ciencias Económicas y Empresariales (Sarriko)</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9593778,43.2730887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escuela Universitaria de Estudios Empresariales</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6686746,42.837387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Facultad de Ciencias Económicas y Empresariales (Elcano)</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9330975,43.2601201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Colegio Mayor Miguel de Unamuno</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9596835,43.276682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aulas de la Experiencia</name>
+        <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9231384,43.2577722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Otros</name>
+      <Placemark>
+        <name><![CDATA[Museo Vasco de Historia de la Medicina y la Ciencia 'José Luis Goti'
+
+ Museo Vasco de Historia de la Medicina 
+]]></name>
+        <styleUrl>#icon-1636-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9684865,43.3314525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fundación Maite</name>
+        <styleUrl>#icon-1899-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9715764,43.3316008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Edificio Joxe Mari Korta</name>
+        <styleUrl>#icon-1899-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0085078,43.3060565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Basque Center for Climate Change (BC3)</name>
+        <styleUrl>#icon-1899-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.968154,43.3321237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Edificio CSIC Física de Materiales</name>
+        <styleUrl>#icon-1899-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0095164,43.3057794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palacio de Miramar</name>
+        <styleUrl>#icon-1899-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.9985032,43.3148002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C.I.C. Nanogune</name>
+        <styleUrl>#icon-1899-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0073867,43.3048464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Consejo de Estudiantes</name>
+        <styleUrl>#icon-1899-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9669094,43.3305239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parque Tecnológico de Zamudio</name>
+        <styleUrl>#icon-1899-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.855823,43.2931222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Estación Marina de Plentzia (PiE)</name>
+        <styleUrl>#icon-1899-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.944985,43.4121987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aula Magna</name>
+        <styleUrl>#icon-1637-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9697633,43.3316242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bizkaia Aretoa</name>
+        <styleUrl>#icon-1637-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9376143,43.2685852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rectorado</name>
+        <styleUrl>#icon-1548-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9674887,43.3308125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vicerrectorado del Campus de Álava </name>
+        <styleUrl>#icon-1548-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6687282,42.8397707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vicerrectorado del Campus de Gipuzkoa</name>
+        <styleUrl>#icon-1548-0097A7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0113402,43.3104637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Instalaciones Deportivas</name>
+      <Placemark>
+        <name>Instalaciones Deportivas Campus de Bizkaia</name>
+        <styleUrl>#icon-1520-FBC02D-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9604024,43.3295912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instalaciones Deportivas Campus de Gipuzkoa</name>
+        <styleUrl>#icon-1520-FBC02D-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0121288,43.3124758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Instalaciones Deportivas Campus de Álava </name>
+        <styleUrl>#icon-1520-FBC02D-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6863772,42.8322809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Cafeterías</name>
+      <Placemark>
+        <name>Cafetería Facultad de Sarriko</name>
+        <styleUrl>#icon-1534-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9583317,43.2733075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafetería entrada este Campus de Bizkaia</name>
+        <styleUrl>#icon-1534-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9630578,43.3304263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafetería entrada oeste Campus de Bizkaia</name>
+        <styleUrl>#icon-1534-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9756534,43.3341371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafetería de Magisterio</name>
+        <styleUrl>#icon-1534-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9721183,43.3328143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafetería Facultad de Economía y Empresa</name>
+        <styleUrl>#icon-1534-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0103264,43.3112053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafetería Facultad de Educación, Filosofía y Antropología</name>
+        <styleUrl>#icon-1534-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0094895,43.312025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafetería Escuela de Ingeniería de Gipuzkoa</name>
+        <styleUrl>#icon-1534-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0097739,43.3093668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafetería de la Escuela Universitaria de Magisterio</name>
+        <styleUrl>#icon-1534-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6738298,42.8401012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafetería Fac. de Psicología y Fac. de Filosofía y C. de la Educación</name>
+        <styleUrl>#icon-1534-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0095056,43.3072393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafetería de la Facultad de Farmacia</name>
+        <styleUrl>#icon-1534-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6721454,42.8402998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafetería de la Facultad de Ciencias Sociales y de la Comunicación</name>
+        <styleUrl>#icon-1534-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9666948,43.3310389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafetería y Comedor Universitario </name>
+        <styleUrl>#icon-1534-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6690287,42.8397983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafetería Facultad de Ciencias Químicas</name>
+        <styleUrl>#icon-1534-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0099562,43.3064313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafetería del Campus de Gipuzkoa</name>
+        <styleUrl>#icon-1534-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0110399,43.3077078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafetería de la Escuela Universitaria de Ingeniería</name>
+        <styleUrl>#icon-1534-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6745915,42.839283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafetería Facultad de Informática</name>
+        <styleUrl>#icon-1534-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.010659,43.3070246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafetería Facultad de Bellas Artes</name>
+        <styleUrl>#icon-1534-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9724884,43.3308594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafetería de la facultad de letras</name>
+        <styleUrl>#icon-1534-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6710752,42.8402487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Bibliotecas</name>
+      <Placemark>
+        <name>Biblioteca de Sarriko</name>
+        <styleUrl>#icon-1664-880E4F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9585141,43.2730341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biblioteca de la Facultad de Bellas Artes</name>
+        <styleUrl>#icon-1664-880E4F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9719198,43.3312106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biblioteca central</name>
+        <styleUrl>#icon-1664-880E4F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.968669,43.3311716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biblioteca de Éibar </name>
+        <styleUrl>#icon-1664-880E4F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.4886984,43.179422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Carlos Santamaría</name>
+        <styleUrl>#icon-1664-880E4F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0116648,43.3087354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Biblioteca Campus de Álava</name>
+        <styleUrl>#icon-1664-880E4F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.6737064,42.8380282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Parking</name>
+      <Placemark>
+        <name>Aparcamiento</name>
+        <styleUrl>#icon-1644-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9655254,43.32972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aparcamiento</name>
+        <styleUrl>#icon-1644-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0130998,43.3075477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aparcamiento</name>
+        <styleUrl>#icon-1644-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9650426,43.3305472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aparcamiento</name>
+        <styleUrl>#icon-1644-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.9617274,43.3294936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aparcamiento</name>
+        <styleUrl>#icon-1644-01579B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.0104069,43.3067748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

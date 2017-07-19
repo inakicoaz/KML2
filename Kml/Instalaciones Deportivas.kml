@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Instalaciones Deportivas</name>
+    <Style id="icon-1520-FBC02D-nodesc-normal">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1520-FBC02D-nodesc-highlight">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1520-FBC02D-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1520-FBC02D-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1520-FBC02D-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Instalaciones Deportivas Campus de Bizkaia</name>
+      <styleUrl>#icon-1520-FBC02D-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.9604024,43.3295912,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Instalaciones Deportivas Campus de Gipuzkoa</name>
+      <styleUrl>#icon-1520-FBC02D-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.0121288,43.3124758,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Instalaciones Deportivas Campus de Álava </name>
+      <styleUrl>#icon-1520-FBC02D-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -2.6863772,42.8322809,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
