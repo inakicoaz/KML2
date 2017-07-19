@@ -7,7 +7,7 @@
         <color>ff4f0e88</color>
         <scale>1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://github.com/inakicoaz/KML2/blob/master/Icons/Biblioteca.png?raw=true</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -22,7 +22,7 @@
         <color>ff4f0e88</color>
         <scale>1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://github.com/inakicoaz/KML2/blob/master/Icons/Biblioteca.png?raw=true</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -70,7 +70,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Biblioteca de Éibar </name>
+      <name>Biblioteca de Éibar </name>
       <styleUrl>#icon-1664-880E4F-nodesc</styleUrl>
       <Point>
         <coordinates>

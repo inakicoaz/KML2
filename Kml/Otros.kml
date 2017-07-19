@@ -7,7 +7,7 @@
         <color>ffa79700</color>
         <scale>1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://github.com/inakicoaz/KML2/blob/master/Icons/Rectorado.png?raw=true</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -22,7 +22,7 @@
         <color>ffa79700</color>
         <scale>1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://github.com/inakicoaz/KML2/blob/master/Icons/Rectorado.png?raw=true</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -47,7 +47,7 @@
         <color>ffa79700</color>
         <scale>1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://github.com/inakicoaz/KML2/blob/master/Icons/Museo.png?raw=true</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -62,7 +62,7 @@
         <color>ffa79700</color>
         <scale>1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://github.com/inakicoaz/KML2/blob/master/Icons/Museo.png?raw=true</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -87,7 +87,7 @@
         <color>ffa79700</color>
         <scale>1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://github.com/inakicoaz/KML2/blob/master/Icons/Musica.png?raw=true</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -102,7 +102,7 @@
         <color>ffa79700</color>
         <scale>1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://github.com/inakicoaz/KML2/blob/master/Icons/Musica.png?raw=true</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -127,7 +127,7 @@
         <color>ffa79700</color>
         <scale>1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://github.com/inakicoaz/KML2/blob/master/Icons/Globo.png?raw=true</href>
         </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -143,7 +143,7 @@
         <color>ffa79700</color>
         <scale>1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://github.com/inakicoaz/KML2/blob/master/Icons/Globo.png?raw=true</href>
         </Icon>
         <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -167,7 +167,7 @@
     <Placemark>
       <name><![CDATA[Museo Vasco de Historia de la Medicina y la Ciencia 'José Luis Goti'
 
- Museo Vasco de Historia de la Medicina 
+ Museo Vasco de Historia de la Medicina 
 ]]></name>
       <styleUrl>#icon-1636-0097A7-nodesc</styleUrl>
       <Point>
@@ -285,7 +285,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Vicerrectorado del Campus de Álava </name>
+      <name>Vicerrectorado del Campus de Álava </name>
       <styleUrl>#icon-1548-0097A7-nodesc</styleUrl>
       <Point>
         <coordinates>

@@ -7,7 +7,7 @@
         <color>ffa79700</color>
         <scale>1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://github.com/inakicoaz/KML2/blob/master/Icons/Facultad.png?raw=true</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -22,7 +22,7 @@
         <color>ffa79700</color>
         <scale>1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://github.com/inakicoaz/KML2/blob/master/Icons/Facultad.png?raw=true</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -286,7 +286,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Escuela Técnica Superior de Ingeniería </name>
+      <name>Escuela Técnica Superior de Ingeniería </name>
       <styleUrl>#icon-1726-0097A7-nodesc</styleUrl>
       <Point>
         <coordinates>
